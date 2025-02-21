@@ -1,5 +1,5 @@
 🛒 E-Commerce Webpage (React & Spring Boot)
-This is a simple **E-Commerce webpage where users can view products and filter them by category.  
+This is a simple E-Commerce webpage where users can view products and filter them by category.  
 
 The project is built using:  
 - Frontend: React.js (Vite)  
