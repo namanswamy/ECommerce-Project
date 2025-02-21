@@ -1,0 +1,7 @@
+# Ignore Node modules (Frontend)
+frontend/node_modules
+
+# Ignore Maven/Gradle files (Backend)
+backend/target
+backend/.mvn
+backend/*.log
